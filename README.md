@@ -1,6 +1,3 @@
-# Let's create the README file with the specified content.
-
-readme_content = """
 # Desafío SuperHeroes
 
 Este proyecto es una aplicación web simple que muestra información sobre varios superhéroes populares. Está diseñado para ser fácil de usar y proporciona una forma visualmente atractiva de presentar información sobre superhéroes.
