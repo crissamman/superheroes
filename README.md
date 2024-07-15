@@ -24,9 +24,3 @@ Este proyecto es una aplicación web simple que muestra información sobre vario
 ## Créditos
 
 Desarrollado por Cristian Samuel Mantilla (@crissamman).
-"""
-
-# Write the content to a README.md file
-with open("/mnt/data/README.md", "w") as readme_file:
-    readme_file.write(readme_content)
-
